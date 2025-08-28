@@ -1,7 +1,21 @@
 # 🏆 Automatic Scientific Leaderboard Generation Reading List
 
 This repository corresponds to the paper:  
-**A Position Paper on the Automatic Generation of Machine Learning Leaderboards**  
+**Roelien C. Timmer, Yufang Hou, and Stephen Wan. 2025. A Position Paper on the Automatic Generation of Machine Learning Leaderboards. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025). Association for Computational Linguistics.**
+
+arXiv version of the paper: https://arxiv.org/abs/2505.17465
+
+BibTeX Citation:
+
+```bibtex
+@inproceedings{timmer2025position,
+  title     = {A Position Paper on the Automatic Generation of Machine Learning Leaderboards},
+  author    = {Timmer, Roelien C. and Hou, Yufang and Wan, Stephen},
+  booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)},
+  year      = {2025},
+  publisher = {Association for Computational Linguistics}
+}
+```
 
 ![Leaderboard Diagram](leaderboard-diagram.png)  
 *Figure 1: A conceptual diagram illustrating the flow of information extraction from scientific papers to generate leaderboards.*
