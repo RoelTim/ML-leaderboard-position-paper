@@ -3,17 +3,25 @@
 This repository corresponds to the paper:  
 **Roelien C. Timmer, Yufang Hou, and Stephen Wan. 2025. A Position Paper on the Automatic Generation of Machine Learning Leaderboards. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025). Association for Computational Linguistics.**
 
-arXiv version of the paper: https://arxiv.org/abs/2505.17465
+Paper link: https://aclanthology.org/2025.emnlp-main.1566/
 
 BibTeX Citation:
 
 ```bibtex
-@inproceedings{timmer2025position,
-  title     = {A Position Paper on the Automatic Generation of Machine Learning Leaderboards},
-  author    = {Timmer, Roelien C. and Hou, Yufang and Wan, Stephen},
-  booktitle = {Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)},
-  year      = {2025},
-  publisher = {Association for Computational Linguistics}
+@inproceedings{timmer-etal-2025-position,
+    title = "A Position Paper on the Automatic Generation of Machine Learning Leaderboards",
+    author = "Timmer, Roelien C.  and
+      Hou, Yufang  and
+      Wan, Stephen",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1566/",
+    doi = "10.18653/v1/2025.emnlp-main.1566",
+    pages = "30761--30784",
+    ISBN = "979-8-89176-332-6",
 }
 ```
 
