@@ -1,7 +1,7 @@
 # 🏆 Automatic Scientific Leaderboard Generation Reading List
 
 This repository corresponds to the paper:  
-**Roelien C. Timmer, Yufang Hou, and Stephen Wan. 2025. A Position Paper on the Automatic Generation of Machine Learning Leaderboards. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025). Association for Computational Linguistics.**
+**Roelien C. Timmer, Yufang Hou, and Stephen Wan. 2025. A Position Paper on the Automatic Generation of Machine Learning Leaderboards. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, pages 30761–30784, Suzhou, China. Association for Computational Linguistics.**
 
 Paper link: https://aclanthology.org/2025.emnlp-main.1566/
 
